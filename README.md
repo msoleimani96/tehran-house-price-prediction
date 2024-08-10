@@ -7,7 +7,7 @@ This is a project for predicting house prices located in Tehran using Regression
 2. Activate virtual environment:
    `source virtual_environment_name/bin/activate`
 4. Install requirements:
-   `pip install requirenments.txt`
+   `pip install requirements.txt`
 4. Start jupyter notebook:
    `python -m notebook`
 
